@@ -65,7 +65,7 @@ static void SigHandler(int sig) {
 //---------------------------------------------------------------------------
 
 int main(int argc, char* argv[]) {
-	sTitle = "PtokaX DC Hub " + string(PtokaXVersionString);
+	sTitle = "e-Library DC Hub " + string(PtokaXVersionString);
 	
 #ifdef _DEBUG
 	sTitle += " [debug]";
