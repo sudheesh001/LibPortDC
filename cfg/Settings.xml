@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes" ?>
+<PtokaX Version="0.5.0.0">
+    <Booleans />
+    <Integers>
+        <Integer Name="MaxUsersPeak">1</Integer>
+    </Integers>
+    <Strings>
+        <String Name="HubName">e-Library Server</String>
+        <String Name="AdminNick">Librarian</String>
+        <String Name="HubAddress">172.30.0.180</String>
+        <String Name="TCPPorts">1209;411;3128;95;154;3210;8080</String>
+    </Strings>
+</PtokaX>

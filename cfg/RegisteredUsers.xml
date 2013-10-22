@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes" ?>
+<RegisteredUsers>
+    <RegisteredUser>
+        <Nick>AdminServer</Nick>
+        <Password>adminnitlibraryserverroot</Password>
+        <Profile>0</Profile><!-- 0 for master, 1 for operator, 2 for vip, 3 for reg -->
+    </RegisteredUser>
+<RegisteredUser>
+        <Nick>Controller</Nick>
+        <Password>adminnitlibraryserverrootcontrol</Password>
+        <Profile>1</Profile><!-- 0 for master, 1 for operator, 2 for vip, 3 for reg -->
+    </RegisteredUser>
+<RegisteredUser>
+        <Nick>Watcher</Nick>
+        <Password>adminnitlibraryserverrootwatcher</Password>
+        <Profile>1</Profile><!-- 0 for master, 1 for operator, 2 for vip, 3 for reg -->
+    </RegisteredUser>
+</RegisteredUsers>
